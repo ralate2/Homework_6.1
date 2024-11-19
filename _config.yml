@@ -1,1 +1,24 @@
-theme: jekyll-theme-minimal 
+# Basic site information
+title: Homework 6.1 Visualizations
+description: A project that explores license types and license status distributions.
+author: Ruchita Alate
+
+# Site base URL 
+baseurl: "/Homework_6.1" 
+url: "https://ralate2.github.io" 
+
+# Markdown and conversion settings
+markdown: kramdown
+theme: jekyll-theme-slate 
+
+# Jekyll defaults
+exclude:
+  - README.md 
+  - LICENSE
+
+# Build settings 
+plugins:
+  - jekyll-feed 
+
+# Permalink structure for links
+permalink: pretty 
