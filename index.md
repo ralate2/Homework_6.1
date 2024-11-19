@@ -6,7 +6,7 @@ Here are my visualizations and writeups:
 
 
 
-**Writeup:**
+**##Writeup:**
 
 ### **1. Description**  
 This bar chart visualizes the distribution of license types across different states. It displays the number of licenses for each type, where the height of each bar represents the frequency of a particular license type within the selected state. By providing a breakdown of license types, the chart helps to understand the prevalence of different types of licenses across states, offering insight into which license types are more common in the chosen state.
@@ -32,7 +32,7 @@ The interactivity of the bar chart enhances its usefulness by allowing users to 
 
 [View Visualization](https://ralate2.github.io/Homework_6.1/Top%205%20License%20Status%20Distribution%20by%20Cities.html)
 
-**Writeup:**
+**##Writeup:**
 
 ### **1. Description**  
 This pie chart visualizes the distribution of the top 5 most frequent license statuses within cities that have at least 5 distinct license types. The chart shows the proportion of each license status within the selected city, with the size of each segment proportional to the number of licenses with that particular status. By focusing on cities with a minimum of 5 license types, this visualization allows users to explore the most common license statuses in more diverse cities with a richer variety of license types.
