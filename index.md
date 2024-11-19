@@ -4,6 +4,7 @@ Here are my visualizations and writeups:
 
 [View Visualization](https://ralate2.github.io/Homework_6.1/License%20Types%20by%20State.html)
 
+<iframe src="bar_chart.html" width="800" height="600"></iframe>
 
 
 ## Writeup:
@@ -31,6 +32,8 @@ The interactivity of the bar chart enhances its usefulness by allowing users to 
 
 
 [View Visualization](https://ralate2.github.io/Homework_6.1/Top%205%20License%20Status%20Distribution%20by%20Cities.html)
+
+<iframe src="dropdown_chart.html" width="800" height="500"></iframe>
 
 ## Writeup:
 
