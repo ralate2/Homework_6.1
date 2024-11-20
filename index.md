@@ -5,7 +5,6 @@ title: Homework 6.1
 ---
 ## - Submitted By Ruchita Alate (ralate2@illinois.edu)
 
-Here are my visualizations and writeups:
 
 ## Visualization 1: License types across different States
 
@@ -79,4 +78,4 @@ Interactivity enhances the usability of the pie chart by allowing users to selec
 #### Resources
 
 - [The Data](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv)
-- [The Analysis](https://github.com/ralate2/Homework_6.1/blob/main/Homework_6.1.ipynb)
+- [The Analysis](https://github.com/ralate2/Homework_6.1/blob/main/Workbook.ipynb)
