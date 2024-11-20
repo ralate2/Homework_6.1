@@ -1,8 +1,6 @@
 
----
-title: License Dataset Visualisations
- - Submitted By Ruchita Alate (ralate2@illinois.edu)
----
+# License Dataset Visualisations
+*Submitted By Ruchita Alate (ralate2@illinois.edu)*
 
 
 ## Visualization 1: License types across different States
