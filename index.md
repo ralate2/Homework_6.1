@@ -2,8 +2,8 @@
 ---
 layout: default
 title: Homework 6.1 
+ - Submitted By Ruchita Alate (ralate2@illinois.edu)
 ---
-## - Submitted By Ruchita Alate (ralate2@illinois.edu)
 
 
 ## Visualization 1: License types across different States
