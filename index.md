@@ -26,6 +26,7 @@
 </head>
 <body>
     <h1>License Visualizations</h1>
+    <h2>Submitted by: Ruchita Alate (ralate2@illinois.edu)</h2>
 
     <!-- Bar Chart -->
     <h2>License Types by State</h2>
