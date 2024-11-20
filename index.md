@@ -2,8 +2,6 @@
 
 Here are my visualizations and writeups:
 
-[View Visualization](https://ralate2.github.io/Homework_6.1/License%20Types%20by%20State.html)
-
 <iframe src="bar_chart.html" width="800" height="600"></iframe>
 
 
@@ -31,9 +29,8 @@ The bar chart includes an interactive dropdown menu (`state_selection`) that all
 The interactivity of the bar chart enhances its usefulness by allowing users to filter the data based on the selected state. By choosing different states, users can easily compare the license type distribution across various regions. This interaction makes the visualization more personalized and relevant to the user's specific interests, improving data exploration and insight extraction. It also allows for a clearer focus on the license types that are most common in each state, providing a better understanding of regional differences in license distributions.
 
 
-[View Visualization](https://ralate2.github.io/Homework_6.1/Top%205%20License%20Status%20Distribution%20by%20Cities.html)
 
-<iframe src="dropdown_chart.html" width="800" height="500"></iframe>
+<iframe src="pie_chart.html" width="800" height="500"></iframe>
 
 ## Writeup:
 
