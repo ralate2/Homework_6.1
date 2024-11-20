@@ -2,7 +2,7 @@
 
 Here are my visualizations and writeups:
 
-<iframe src="bar_chart.html" width="800" height="600"></iframe>
+<iframe src="bar_chart.html" width="1000" height="500"></iframe>
 
 
 ## Writeup:
