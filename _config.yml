@@ -9,16 +9,9 @@ url: "https://ralate2.github.io"
 
 # Markdown and conversion settings
 markdown: kramdown
-theme: jekyll-theme-slate 
+theme: jekyll-theme-minima
 
 # Jekyll defaults
 exclude:
   - README.md 
   - LICENSE
-
-# Build settings 
-plugins:
-  - jekyll-feed 
-
-# Permalink structure for links
-permalink: pretty 
