@@ -37,7 +37,7 @@ The data is filtered based on the selected state, allowing users to view the lic
 ### **5. Interactivity**  
 The bar chart includes an interactive dropdown menu (`state_selection`) that allows users to select a state. This interactivity enables users to dynamically filter the data and examine the license type distribution for any specific state. The dropdown allows for a smooth and flexible exploration of the data.
 
-### **6. Impact of Interactivity**  
+### **6. Benefits of Interactivity**  
 The interactivity of the bar chart enhances its usefulness by allowing users to filter the data based on the selected state. By choosing different states, users can easily compare the license type distribution across various regions. This interaction makes the visualization more personalized and relevant to the user's specific interests, improving data exploration and insight extraction. It also allows for a clearer focus on the license types that are most common in each state, providing a better understanding of regional differences in license distributions.
 
 
@@ -69,8 +69,16 @@ The data is filtered to include only those cities that have at least 5 distinct 
 ### **5. Interactivity**  
 The pie chart includes an interactive radio button feature (`city_selection`), enabling users to select a city from the list. This allows users to explore the top 5 license statuses for different cities, making the data exploration more dynamic and interactive.
 
-### **6. Impact of Interactivity**  
+### **6. Benefits of Interactivity**  
 Interactivity enhances the usability of the pie chart by allowing users to select a city and view its top 5 license status distribution. This gives users a tailored, more in-depth view of the data, enabling them to focus on specific cities of interest. The radio button selection makes it easier to choose cities from the list without overwhelming the user with too many options at once. Overall, this interaction improves the accessibility of the data and makes the visualization more engaging and customizable.
+
+
+#### General Data Cleaning Practices Implemented for the Visualizations: 
+In the preprocessing workflow, the dataset is first read from a URL, and then columns with more than 90% missing values are dropped. Missing values in the 'Middle' column are filled with "N/A" to maintain data integrity. Rows with missing critical data, such as 'License Number', 'First Name', 'Last Name', 'Effective Date', and others, are dropped. After handling missing values, the dataset's dimensionality is updated, and date columns (such as 'Original Issue Date', 'Effective Date', 'Expiration Date', and 'LastModifiedDate') are converted to the datetime format. New year columns are created from these dates. Finally, all object-type columns are converted to the 'category' data type to optimize memory usage and performance.
+
+#### Difference from Previous Assignment: 
+The plots created in this assignment differ from those in previous assignments, offering a unique visualization style enriched with interactive features.
+
 
 #### Resources
 
