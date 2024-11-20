@@ -78,7 +78,7 @@
     <h2>Resources</h2>
     <p>
         <a href="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv">The Data</a> |
-        <a href="https://github.com/ralate2/Homework_6.1/blob/main/Homework_6.1.ipynb">The Analysis</a>
+        <a href="https://github.com/ralate2/Homework_6.1/blob/main/Workbook.ipynb">The Analysis</a>
     </p>
 </body>
 </html>
