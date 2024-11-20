@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -52,6 +51,8 @@
         <p><strong>6. Impact of Interactivity:</strong> The interactivity of the bar chart enhances its usefulness by allowing users to filter the data based on the selected state. By choosing different states, users can easily compare the license type distribution across various regions. This interaction makes the visualization more personalized and relevant to the user's specific interests, improving data exploration and insight extraction. It also allows for a clearer focus on the license types that are most common in each state, providing a better understanding of regional differences in license distributions.</p>
     </div>
 
+
+
     <!-- Pie Chart -->
     <h2>Top 5 License Status Distribution by Cities</h2>
     <div id="pie_chart"></div>
@@ -74,6 +75,8 @@
         <p><strong>5. Interactivity:</strong> The pie chart includes an interactive radio button feature (<code>city_selection</code>), enabling users to select a city from the list. This allows users to explore the top 5 license statuses for different cities, making the data exploration more dynamic and interactive.</p>
         <p><strong>6. Impact of Interactivity:</strong> Interactivity enhances the usability of the pie chart by allowing users to select a city and view its top 5 license status distribution. This gives users a tailored, more in-depth view of the data, enabling them to focus on specific cities of interest. The radio button selection makes it easier to choose cities from the list without overwhelming the user with too many options at once. Overall, this interaction improves the accessibility of the data and makes the visualization more engaging and customizable.</p>
     </div>
+
+    
     <!-- Resources -->
     <h2>Resources</h2>
     <p>
