@@ -1,7 +1,6 @@
 
 ---
-layout: default
-title: Homework 6.1 
+License Dataset Visualisations
  - Submitted By Ruchita Alate (ralate2@illinois.edu)
 ---
 
