@@ -72,7 +72,7 @@ The pie chart includes an interactive radio button feature (`city_selection`), e
 ### **6. Benefits of Interactivity**  
 Interactivity enhances the usability of the pie chart by allowing users to select a city and view its top 5 license status distribution. This gives users a tailored, more in-depth view of the data, enabling them to focus on specific cities of interest. The radio button selection makes it easier to choose cities from the list without overwhelming the user with too many options at once. Overall, this interaction improves the accessibility of the data and makes the visualization more engaging and customizable.
 
-
+## Preparing Data for Analysis:
 #### General Data Cleaning Practices Implemented for the Visualizations: 
 In the preprocessing workflow, the dataset is first read from a URL, and then columns with more than 90% missing values are dropped. Missing values in the 'Middle' column are filled with "N/A" to maintain data integrity. Rows with missing critical data, such as 'License Number', 'First Name', 'Last Name', 'Effective Date', and others, are dropped. After handling missing values, the dataset's dimensionality is updated, and date columns (such as 'Original Issue Date', 'Effective Date', 'Expiration Date', and 'LastModifiedDate') are converted to the datetime format. New year columns are created from these dates. Finally, all object-type columns are converted to the 'category' data type to optimize memory usage and performance.
 
